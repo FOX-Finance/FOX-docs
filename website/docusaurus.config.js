@@ -106,7 +106,7 @@ const config = {
                 href: 'https://twitter.com/FoxStablecoin',
               },
               {
-                label: 'Github',
+                label: 'GItHub',
                 href: 'https://github.com/FOX-Finance',
               },
             ],
