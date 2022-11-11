@@ -13,7 +13,7 @@ const config = {
   title: 'FOX Finance',
   tagline: 'Fractional Over-Collateralized Stablecoin',
   url: 'https://your-docusaurus-test-site.com', // TODO
-  baseUrl: '/FOX-docs/website',
+  baseUrl: '/FOX-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
