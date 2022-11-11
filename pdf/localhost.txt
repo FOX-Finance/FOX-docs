@@ -1,0 +1,26 @@
+http://localhost:3000/category/introduction
+http://localhost:3000/Introduction/Trilemma
+http://localhost:3000/Introduction/Stablecoins
+http://localhost:3000/Introduction/FOX
+http://localhost:3000/category/mechanisms
+http://localhost:3000/Mechanisms/Overview
+http://localhost:3000/Mechanisms/Minting-and-Redeem
+http://localhost:3000/Mechanisms/Recollateralization
+http://localhost:3000/Mechanisms/Buyback
+http://localhost:3000/Mechanisms/Pair-Annihilation
+http://localhost:3000/Mechanisms/Liquidation
+http://localhost:3000/Safety
+http://localhost:3000/category/tokenomics
+http://localhost:3000/Tokenomics/Tokens
+http://localhost:3000/Tokenomics/NFTs
+http://localhost:3000/Tokenomics/FOXS
+http://localhost:3000/Governance
+http://localhost:3000/category/for-developers
+http://localhost:3000/For Developers/Interfaces
+http://localhost:3000/For Developers/How-to-Use
+http://localhost:3000/Roadmap
+http://localhost:3000/category/security
+http://localhost:3000/Security/Audit
+http://localhost:3000/category/community
+http://localhost:3000/Community/External-Links
+http://localhost:3000/Community/Treasury

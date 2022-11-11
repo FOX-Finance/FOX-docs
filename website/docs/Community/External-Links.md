@@ -6,7 +6,7 @@ sidebar_position: 1
 
 - [WebApp](https://fox-fi.web.app)
 - [Twitter](https://twitter.com/FoxStablecoin)
-- [GItHub](https://github.com/FOX-Finance)
+- [GitHub](https://github.com/FOX-Finance)
 
 ## Contact
 
