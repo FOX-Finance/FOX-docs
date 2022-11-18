@@ -12,7 +12,7 @@ const mdxMermaid = require('mdx-mermaid');
 const config = {
   title: 'FOX Finance',
   tagline: 'Fractional Over-Collateralized Stablecoin',
-  url: 'https://your-docusaurus-test-site.com', // TODO
+  url: 'https://fox-fi.web.app/',
   baseUrl: '/FOX-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -99,7 +99,7 @@ const config = {
             items: [
               {
                 label: 'Website',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus', // TODO
+                href: 'https://fox-fi.web.app/',
               },
               {
                 label: 'Twitter',
