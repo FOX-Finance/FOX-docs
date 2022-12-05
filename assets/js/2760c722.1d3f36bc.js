@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[273],{1799:e=>{e.exports=JSON.parse('{"title":"Mechanisms","slug":"/category/mechanisms","permalink":"/FOX-docs/category/mechanisms","navigation":{"previous":{"title":"FOX","permalink":"/FOX-docs/Introduction/FOX"},"next":{"title":"Overview","permalink":"/FOX-docs/Mechanisms/Overview"}}}')}}]);

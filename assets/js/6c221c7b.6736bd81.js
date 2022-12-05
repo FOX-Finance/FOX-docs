@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[435],{7e3:e=>{e.exports=JSON.parse('{"title":"Tokenomics","slug":"/category/tokenomics","permalink":"/FOX-docs/category/tokenomics","navigation":{"previous":{"title":"Safety","permalink":"/FOX-docs/Safety"},"next":{"title":"Tokens","permalink":"/FOX-docs/Tokenomics/Tokens"}}}')}}]);
