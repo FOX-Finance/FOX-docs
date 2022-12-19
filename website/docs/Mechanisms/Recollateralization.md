@@ -8,6 +8,8 @@ sidebar_position: 3
 
 `Recollateralize` can be called when FOX remains below $1 for an hour. Users can earn share tokens by raising LTV or minting additional debts.
 
+- Only CDP Owner
+
 ```
                     MAX LTV: L%
 +------------+          LTV: x++%    +------------+
