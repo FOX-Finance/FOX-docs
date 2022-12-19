@@ -18,6 +18,9 @@ Several feature updates are also scheduled to make the protocol more robust and 
 
 ## Liquid Staking
 
+In the near future, we'll use [stMATIC](https://lido.fi/polygon) and [xMATIC](https://polygon.staderlabs.com/liquid-staking/maticx) as collaterals.
+
+<!-- 
 In the near future, we use [Ankr](https://www.ankr.com/bnb-liquid-staking/)'s aBNBc token.
 
 ### Requirements
@@ -32,3 +35,4 @@ In the near future, we use [Ankr](https://www.ankr.com/bnb-liquid-staking/)'s aB
 - Relayer fee: 0.002 BNB.
 - Unstaking fee: 0.004 BNB.
 - Unstaking relay fee: 0.000075 BNB.
+-->
