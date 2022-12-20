@@ -13,7 +13,7 @@ sidebar_position: 4
 ```
                     MAX LTV: L%
 +------------+          LTV: x--%    +------------+
-|    BNB     |<----------+           |    FOX     |
+|   MATIC    |<----------+           |    FOX     |
 +------------+           |           +------------+
    Collateral            |              Stablecoin
                          |
