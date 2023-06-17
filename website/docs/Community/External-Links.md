@@ -4,8 +4,7 @@ sidebar_position: 1
 
 # External Links
 
-- [WebApp](https://fox-fi.web.app)
-- [Twitter](https://twitter.com/FoxStablecoin)
+- [WebApp](https://fox-finance.github.io/webapp)
 - [GitHub](https://github.com/FOX-Finance)
 
 ## Contact

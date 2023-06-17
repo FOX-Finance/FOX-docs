@@ -12,8 +12,8 @@ const mdxMermaid = require('mdx-mermaid');
 const config = {
   title: 'FOX Finance',
   tagline: 'Fractional Over-Collateralized Stablecoin',
-  url: 'https://fox-fi.web.app/',
-  baseUrl: '/FOX-docs/',
+  url: 'https://fox-finance.github.io/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -99,11 +99,7 @@ const config = {
             items: [
               {
                 label: 'Website',
-                href: 'https://fox-fi.web.app/',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/FoxStablecoin',
+                href: 'https://fox-finance.github.io/webapp/',
               },
               {
                 label: 'GitHub',

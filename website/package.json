@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.0.0",
   "private": true,
-  "homepage": "http://FOX-Finance.github.io/FOX-docs/website",
+  "homepage": "http://FOX-Finance.github.io/docs/website",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

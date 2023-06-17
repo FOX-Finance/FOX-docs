@@ -10,7 +10,7 @@ There are many tokens in the FOX ecosystem; `ETH`, `FOX`, `FOXS`, `veFOXS`, and 
 
 ## ETH (WETH)
 
-ETH is the native coin of Ethereum. Or, it means the native coin at some EVM-based blockchain such as Polygon (MATIC) or Binance Smart Chain (BNB). is internally converted into WETH (wrapped ETH) as ERC20 for easy use in smart contracts. The conversion ratio between WETH and ETH is 1:1.
+ETH is the native coin of Ethereum. Or, it means the native coin at some EVM-based/compatible blockchain such as Filecoin (FIL). ETH is internally converted into WETH (wrapped ETH) as ERC20 for easy use in smart contracts. The conversion ratio between WETH and ETH is 1:1.
 
 In the near future, staked assets will be used to earn staking rewards simultaneously.
 
