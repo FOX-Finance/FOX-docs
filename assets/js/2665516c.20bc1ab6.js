@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[751],{7716:e=>{e.exports=JSON.parse('{"title":"Tokenomics","slug":"/category/tokenomics","permalink":"/docs/category/tokenomics","navigation":{"previous":{"title":"Safety","permalink":"/docs/Safety"},"next":{"title":"Tokens","permalink":"/docs/Tokenomics/Tokens"}}}')}}]);
