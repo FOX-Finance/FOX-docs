@@ -14,11 +14,11 @@ Several feature updates are also scheduled to make the protocol more robust and 
 👀 Please keep an eye on FOX-Finance!
 ```
 
----
+<!-- ---
 
 ## Liquid Staking
 
-In the near future, we'll use [stMATIC](https://lido.fi/polygon) and [xMATIC](https://polygon.staderlabs.com/liquid-staking/maticx) as collaterals.
+In the near future, we'll use [stMATIC](https://lido.fi/polygon) and [xMATIC](https://polygon.staderlabs.com/liquid-staking/maticx) as collaterals. -->
 
 <!-- 
 In the near future, we use [Ankr](https://www.ankr.com/bnb-liquid-staking/)'s aBNBc token.

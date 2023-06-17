@@ -15,7 +15,7 @@ sidebar_position: 2
 ```
                     MAX LTV: L%
 +------------+          LTV: x%      +------------+
-|   MATIC    |-----------+---------->|    FOX     |
+|    FIL     |-----------+---------->|    FOX     |
 +------------+           |           +------------+
    Collateral            |              Stablecoin
                          |
@@ -36,7 +36,7 @@ sidebar_position: 2
 ```
                     MAX LTV: L%
 +------------+          LTV: x%      +------------+
-|   MATIC    |<----------+-----------|    FOX     |
+|    FIL     |<----------+-----------|    FOX     |
 +------------+           |           +------------+
    Collateral            |              Stablecoin
                          |
