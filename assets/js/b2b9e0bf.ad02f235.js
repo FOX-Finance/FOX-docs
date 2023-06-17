@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[572],{1705:e=>{e.exports=JSON.parse('{"title":"Security","slug":"/category/security","permalink":"/FOX-docs/category/security","navigation":{"previous":{"title":"Roadmap","permalink":"/FOX-docs/Roadmap"},"next":{"title":"Audit","permalink":"/FOX-docs/Security/Audit"}}}')}}]);
