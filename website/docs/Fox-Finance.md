@@ -7,8 +7,6 @@ sidebar_position: 1
 
 ![](./images/fox_logo_bg.png)
 
-> Powered by [moralis](https://moralis.io)
-
 ---
 
 ```text
